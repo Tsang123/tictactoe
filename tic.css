@@ -22,7 +22,7 @@
 	#but {
 		box-sizing: border-box;
 		width: 95px;
-		height: 40px;
+		height: 60px;
 		border: 1px solid dodgerblue;
 		margin: auto;
 		border-radius: 4px;
@@ -55,6 +55,13 @@
 			Geneva, Tahoma, sans-serif;
 			
 		color: dodgerblue;
-		font-size: 17px;
+		font-size: 25px;
+	}
+	#ins2 {
+		font-family: Verdana,
+			Geneva, Tahoma, sans-serif;
+			
+		color: dodgerblue;
+		font-size: 50px;
 	}
 </style>
